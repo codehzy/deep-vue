@@ -3,6 +3,7 @@ title: 权衡艺术
 author: coderhzy
 date: '2022-03-05'
 ---
+## 第一章、权衡艺术
 
 ### 1.1 命令式和声明式
 
@@ -21,7 +22,7 @@ date: '2022-03-05'
 
 ### 1.3 虚拟DOM的性能到底如何
 
-![对比跑分测试](./assets/imgs/runPoints.png)
+![对比跑分测试](./imgs/runPoints.png)
 
 - 1. **对比纯JavaScript操作与DOM操作**
 

@@ -26,9 +26,16 @@ module.exports = {
         title: '第一章:权衡艺术',
         path: '/handbook/01_artBalance',
         collapsable: false // 不折叠
-        //   children: [
-        //     { title: "权衡艺术", path: "/handbook/01_artBalance" },
-        //   ],
+      },
+      {
+        title: '第二章:框架核心的设计要素',
+        path: '/handbook/02_coreDesign',
+        collapsable: false // 不折叠
+      },
+      {
+        title: '第三章:Vue.js3 的设计思路',
+        path: '/handbook/03_desginMind',
+        collapsable: false // 不折叠
       }
     ],
     subSidebar: 'auto'
